@@ -2,7 +2,7 @@ import time
 import praw
 
 r = praw.Reddit('PRAW based twitter bot by '
-	           'u/diaop ')
+	           'u/weekerman ')
 
 r.login()
 already_done = []
